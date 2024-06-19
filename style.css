@@ -10,7 +10,7 @@
     
     header{
     background-color: #0981f1;
-    color: #FFC96F;
+    color: #beb8ad;
     width: 100%;
     padding: 20px;
     
@@ -43,7 +43,7 @@
 .banner1{
     display: flex;
     justify-content: center;
-    background-color: #fafafa;
+    background-color: #FFC96F;
 }
 
 .estudante_titulo{
