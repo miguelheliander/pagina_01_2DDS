@@ -43,7 +43,7 @@
 .banner1{
     display: flex;
     justify-content: center;
-    background-color: #FFC96F;
+    background-color: #242424;
 }
 
 .estudante_titulo{
@@ -64,7 +64,7 @@
     }
 
     .estudante{
-        background-image: background-color#9AC8CD;
+        background-image: background-color#FFC96F;
         padding: 24px 0;
         }
         
