@@ -62,7 +62,10 @@
     width: 38px;
     padding: 4px 8px;
     }
+section {
 
+    background-color: #f7bd01;
+}
     .estudante{
         background-image: background-color#4b4b4b;
         padding: 24px 0;
