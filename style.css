@@ -81,8 +81,8 @@ section {
         }
 
         .escola{
-            background-image: linear-gradient(#40A2E3,#7FC2EF);
-            color: #020202;
+            background-image: linear-gradient#686D76
+            color#686D76;
             display: flex;
             justify-content:center;
             padding: 24px 0;
